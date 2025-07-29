@@ -1,0 +1,2 @@
+No profinet devices in the subnet
+|_multicast-profinet-discovery: 0
